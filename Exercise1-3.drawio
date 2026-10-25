@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Trang-1" id="nUzf_wjWxEM9JH8zpdEk">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-11" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Lop" vertex="1">
+          <mxGeometry height="78" width="140" x="90" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-12" parent="pQSkqFT7Gcb8dISO1y1n-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Ten lop" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-13" parent="pQSkqFT7Gcb8dISO1y1n-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Si so" vertex="1">
+          <mxGeometry height="26" width="140" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-20" edge="1" parent="pQSkqFT7Gcb8dISO1y1n-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.993;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139" y="104" as="sourcePoint" />
+            <mxPoint x="138.01999999999998" y="104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-16" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Sinh vien" vertex="1">
+          <mxGeometry height="104" width="140" x="390" y="363" as="geometry" />
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-17" parent="pQSkqFT7Gcb8dISO1y1n-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Ma so sinh vien" vertex="1">
+          <mxGeometry height="26" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-18" parent="pQSkqFT7Gcb8dISO1y1n-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Ten sinh vien" vertex="1">
+          <mxGeometry height="26" width="140" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-19" parent="pQSkqFT7Gcb8dISO1y1n-16" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Email" vertex="1">
+          <mxGeometry height="26" width="140" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="pQSkqFT7Gcb8dISO1y1n-24" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;defaultLabelBackgroundColor=page;entryX=0.036;entryY=0.808;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.029;exitY=-0.115;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="100" relative="1" width="100" x="-0.0511" as="geometry">
+            <mxPoint x="232.05999999999995" y="412.01" as="sourcePoint" />
+            <mxPoint x="387.99999999999994" y="410.00800000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
